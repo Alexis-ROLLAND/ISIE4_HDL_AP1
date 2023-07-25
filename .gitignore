@@ -10,6 +10,7 @@ db/
 incremental_db/
 output_files/
 unsaved/
+simulation/
 *.bak
 
 
