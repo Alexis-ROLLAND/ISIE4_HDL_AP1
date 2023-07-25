@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Quartus/ISIE4_HDL_AP1/simulation/qsim
+vadditionneur1bit
+Z1 !s110 1690278139
+!i10b 1
+!s100 m>eTFWh]mD?8:jgFQRPPf2
+ITmFOFoC]kG_XC[1ez11jG2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1690278138
+Z3 8additionneur1bit.vo
+Z4 Fadditionneur1bit.vo
+L0 31
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1690278139.000000
+Z7 !s107 additionneur1bit.vo|
+Z8 !s90 -work|work|additionneur1bit.vo|
+!i113 1
+Z9 o-work work
+Z10 tCvgOpt 0
+vadditionneur1bit_vlg_vec_tst
+R1
+!i10b 1
+!s100 dfKNN:aM>cU9ICWkGkY>k2
+I^^_j7OYz[5nfWYcYKLoT<1
+R2
+R0
+w1690278137
+8test_add1bit.vwf.vt
+Ftest_add1bit.vwf.vt
+L0 29
+R5
+r1
+!s85 0
+31
+R6
+!s107 test_add1bit.vwf.vt|
+!s90 -work|work|test_add1bit.vwf.vt|
+!i113 1
+R9
+R10
+vhard_block
+!s110 1690278026
+!i10b 1
+!s100 hVYQ[i=;GChn]i7lN>QBj2
+I9@W2ckNPVU6AS:hlfKkg:0
+R2
+R0
+w1690278025
+R3
+R4
+L0 162
+R5
+r1
+!s85 0
+31
+!s108 1690278026.000000
+R7
+R8
+!i113 1
+R9
+R10

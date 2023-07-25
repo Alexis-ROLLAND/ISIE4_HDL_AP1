@@ -1,0 +1,11 @@
+vendor_name = ModelSim
+source_file = 1, C:/Quartus/ISIE4_HDL_AP1/additionneur1bit.v
+source_file = 1, C:/Quartus/ISIE4_HDL_AP1/test_add1bit.vwf
+source_file = 1, C:/Quartus/ISIE4_HDL_AP1/db/additionneur1bit.cbx.xml
+design_name = additionneur1bit
+instance = comp, \Somme~output , Somme~output, additionneur1bit, 1
+instance = comp, \Carry~output , Carry~output, additionneur1bit, 1
+instance = comp, \a~input , a~input, additionneur1bit, 1
+instance = comp, \b~input , b~input, additionneur1bit, 1
+instance = comp, \Somme~0 , Somme~0, additionneur1bit, 1
+instance = comp, \Carry~0 , Carry~0, additionneur1bit, 1
